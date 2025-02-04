@@ -27,3 +27,6 @@ talked about prototyping
 what function is most important for us to be able to prototype in a week
 I think bandpass filter functionality is most important
 before we start trying audio output, just having a working idea of making a filter that outputs at the specifications we give it.
+Looks-like Prototype (3D print a smaller cale model maybe)
+Works-like Prototype (Get bandpass filter working)
+Engineering Prototype (design model that can hold bandpass filter)

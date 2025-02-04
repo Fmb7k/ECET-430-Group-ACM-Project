@@ -30,7 +30,7 @@ before we start trying audio output, just having a working idea of making a filt
 Looks-like Prototype (3D print a smaller cale model maybe)
 Works-like Prototype (Get bandpass filter working with AM)
 Engineering Prototype (design model that can hold bandpass filter)
-can use a knob with gears that will tune parts of filter at same time
+can use a knob with gears that will tune parts of filter at same time to keep them synced
 Need a demodulator that will take signal and output to a speaker somehow
 Focus on AM radio first, microcontroller can tell you what frequency is being read
 DISCUSSION FROM CLASS (3 IDEAS)
@@ -38,3 +38,5 @@ RECIEVER
 ANTENNA
 DEMODULATION 
 OP AMP 
+HAVE AN ARDUINO DISPLAY FREQUENCY FROM FILTER
+

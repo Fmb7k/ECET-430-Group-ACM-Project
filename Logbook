@@ -28,5 +28,8 @@ what function is most important for us to be able to prototype in a week
 I think bandpass filter functionality is most important
 before we start trying audio output, just having a working idea of making a filter that outputs at the specifications we give it.
 Looks-like Prototype (3D print a smaller cale model maybe)
-Works-like Prototype (Get bandpass filter working)
+Works-like Prototype (Get bandpass filter working with AM)
 Engineering Prototype (design model that can hold bandpass filter)
+can use a knob with gears that will tune parts of filter at same time
+Need a demodulator that will take signal and output to a speaker somehow
+Focus on AM radio first, microcontroller can tell you what frequency is being read

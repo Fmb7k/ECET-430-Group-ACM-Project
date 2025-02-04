@@ -33,3 +33,8 @@ Engineering Prototype (design model that can hold bandpass filter)
 can use a knob with gears that will tune parts of filter at same time
 Need a demodulator that will take signal and output to a speaker somehow
 Focus on AM radio first, microcontroller can tell you what frequency is being read
+DISCUSSION FROM CLASS (3 IDEAS)
+RECIEVER
+ANTENNA
+DEMODULATION 
+OP AMP 

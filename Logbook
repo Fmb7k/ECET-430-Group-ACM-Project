@@ -1,0 +1,29 @@
+1/21/2025
+2 big ideas from first class
+Desk fan with programmable speeds and oscillation angles and timer
+Battery Powered
+Headphone rack with buttons for rotation, USB ports, and RGB LEDs
+Wall Outlet Powered
+Headphone rack idea feels a little barebones, could explore some more creative additions to the build
+started git repo, didnt fully understand how to set it up
+
+
+1/25/2025
+Created Project Definitions for two ideas
+Temperature sensor Desk fan and Daily Planner Radio
+
+1/26/2025 Class
+High level Design notes
+probably need a dim backlight for LCD screen
+Create flowcharts of how things actually connect to each other
+Battery USB example from class was important
+Document core design decisions, come to these decisions by using the flowcharts
+things like voltage and current regulation are to be considered
+Things like cost vs efficiency matter here. 
+Edited Project Definitions during class
+
+2/4/2025
+talked about prototyping
+what function is most important for us to be able to prototype in a week
+I think bandpass filter functionality is most important
+before we start trying audio output, just having a working idea of making a filter that outputs at the specifications we give it.

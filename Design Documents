@@ -1,0 +1,22 @@
+Major Moving Parts:
+ - Dial for controlling pots on band-pass filter
+
+Sections: (block diagram)
+
+Priorities:
+ - Filter/component values, potentiometer and gears to tune to desired frequency
+ - Antenna
+ - Amplifier
+ - Demodulator
+ - Speaker
+ - Microcontroller integration
+
+Dependencies:
+ - Need to size the mechanical aspect to the layout of the band-pass filter's potentiometers
+ - Amplifier settings determined based on antenna output
+
+Architecture: Implementation Options:
+
+Modules for prototype:
+ - Band-pass filter with tunable potentiometers
+	- Possibly with the antenna

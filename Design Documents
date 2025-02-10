@@ -16,6 +16,16 @@ Dependencies:
  - Amplifier settings determined based on antenna output
 
 Architecture: Implementation Options:
+-Frequency tuning methods
+using knobs and gears to tune potentiometers to change frequencies
+knobs located on front or top of device
+-Menu navigation
+Using either buttons or knobs that are connected to a microcontroller to navigate
+-Menu implementation
+4x24 LCD screen displaying necessary information
+-Speakers
+Speakers mounted next to LCD screen on both sides
+
 
 Modules for prototype:
  - Band-pass filter with tunable potentiometers

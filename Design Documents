@@ -30,3 +30,14 @@ Speakers mounted next to LCD screen on both sides
 Modules for prototype:
  - Band-pass filter with tunable potentiometers
 	- Possibly with the antenna
+
+
+Options you considered as microcontrollers 
+We considered the Arduino Uno R3 and the raspberry pi
+Which one you chose
+We chose the Arduino Uno R3
+Why
+We chose it because we are familiar with working with it, as Seven is currently taking 311, and Max has already taken 311 and 411. Our final product doesn't need anything specific that other microprossessors can offer, 
+and we think that it would be better to save costs for us and time getting used to working with other types of microprocessors. 
+Items you need to start working with it, like IDE, compiler, toolchain, hardware/software debugging tools
+We will be using the arduino IDE to work with it. 

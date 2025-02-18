@@ -40,3 +40,10 @@ DEMODULATION
 OP AMP 
 HAVE AN ARDUINO DISPLAY FREQUENCY FROM FILTER
 
+2/18/2025
+Circuit of the day was 100nF capacitor
+used to reduce noise as a decoubpling capacitor for the various active parts of a circuit
+because we are using a DAC for our radio transmitter this is very important to us, and we need to research a different kind of capacitor to transmit 
+information accurately
+Make test programs that you can run to test if everything is still working as you add onto the project
+Unit tests

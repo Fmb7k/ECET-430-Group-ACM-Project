@@ -6,3 +6,7 @@ https://www.hobbyprojects.com/block_diagrams/am_receiver.html
 Decoupling Capacitor
 https://en.wikipedia.org/wiki/Decoupling_capacitor
 
+prefab amp for radio, different classes of amplifiers (power consumption )
+We do not need to actually design the amps for the radio, can use prefabricated ones from amazon that match our specifications
+We want to keep the speaker/amp side of things simple because it needs to be able to work with our microcontroller.
+Debounce for user input

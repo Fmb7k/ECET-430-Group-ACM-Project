@@ -47,3 +47,20 @@ because we are using a DAC for our radio transmitter this is very important to u
 information accurately
 Make test programs that you can run to test if everything is still working as you add onto the project
 Unit tests
+
+3/4/2025
+Start with low level verification code
+verify basic functions will work before proceeding 
+use mock functions with made up values to test things without using hardware
+Have overvoltage / overcurrent protection on external inputs? 
+- Does the radio signal need to be protected
+Capacitors for audio stuff need special consideration 
+Need Op-Amps that work within power budget and don't overheat
+Integrated Circuits should be #1 thing to design around
+How to design around standard outlet power and cable
+maybe run numbers on heat 
+Power budget is sum of power consumption of all components 
+Ex: Arduino takes 7V 50mA, Servo takes 5V 150mA, Display takes 5V 100mA 
+Calculate Power from total V and I
+Power = 350 + 750 + 500 = 1600mW 
+This ballpark lets you make other design considerations later

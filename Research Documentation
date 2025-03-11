@@ -6,7 +6,25 @@ https://www.hobbyprojects.com/block_diagrams/am_receiver.html
 Decoupling Capacitor
 https://en.wikipedia.org/wiki/Decoupling_capacitor
 
+Bandpass Filter 
+https://www.electronics-tutorials.ws/filter/filter_7.html
+
 prefab amp for radio, different classes of amplifiers (power consumption )
 We do not need to actually design the amps for the radio, can use prefabricated ones from amazon that match our specifications
 We want to keep the speaker/amp side of things simple because it needs to be able to work with our microcontroller.
 Debounce for user input
+
+AM radio filtering 
+https://electronics.stackexchange.com/questions/169688/how-does-an-am-radio-filter-out-only-the-desired-frequency 
+
+AM Radio Lab 
+https://download.tek.com/document/76W_24505_0.pdf
+
+ADC in arduino
+https://www.electronicwings.com/arduino/adc-in-arduino
+
+Tank circuit resonant frequency 
+f r = 1 2 π L C
+using variable capacitor with a constant inductor value will allow us to tune to specific frequencies
+the only requirement for the inductor is that it allows the frequency response to go between the frequency values we specify, we want these to correspond with
+AM radio station frequencies

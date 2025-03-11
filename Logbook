@@ -64,3 +64,10 @@ Ex: Arduino takes 7V 50mA, Servo takes 5V 150mA, Display takes 5V 100mA
 Calculate Power from total V and I
 Power = 350 + 750 + 500 = 1600mW 
 This ballpark lets you make other design considerations later
+
+3/11/2025
+We have design decisions we need to make
+should signal process go through arduino or not (probably no)
+what does the arduino actually need to do
+arduino can display resonant frequency of bandpass filter
+arduino also has bandpass filter implementation that can be done on the software side 

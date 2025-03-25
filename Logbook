@@ -81,6 +81,8 @@ Using linear regulators in certain situations can be inefficient due to wasting 
 Switching regulators can fix this problem
 Switching is not always better, efficiency and cost need to be considered overall
 24 bit adc
+https://microchip.my.site.com/s/article/Calculating-crystal-load-capacitor 
+crystal capacitor clock stuff ^^^^
 dynamic range audio stuff discussed in class
 need to be very fine
 100nF capacitor is good for high frequency filtering

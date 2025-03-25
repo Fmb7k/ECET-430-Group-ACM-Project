@@ -74,3 +74,14 @@ arduino also has bandpass filter implementation that can be done on the software
 
 3/24/2025
 Created AM bandpass filter prototype for presentation
+
+3/25/2025
+Talked about switching regulators in class
+Using linear regulators in certain situations can be inefficient due to wasting input voltage power, or if output voltage needed fluctuates too much
+Switching regulators can fix this problem
+Switching is not always better, efficiency and cost need to be considered overall
+24 bit adc
+dynamic range audio stuff discussed in class
+need to be very fine
+100nF capacitor is good for high frequency filtering
+4.7nF capacitor is good for regulating voltage spikes, smoothes voltage out

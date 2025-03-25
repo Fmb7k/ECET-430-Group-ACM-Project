@@ -71,3 +71,6 @@ should signal process go through arduino or not (probably no)
 what does the arduino actually need to do
 arduino can display resonant frequency of bandpass filter
 arduino also has bandpass filter implementation that can be done on the software side 
+
+3/24/2025
+Created AM bandpass filter prototype for presentation

@@ -28,3 +28,9 @@ f r = 1 2 π L C
 using variable capacitor with a constant inductor value will allow us to tune to specific frequencies
 the only requirement for the inductor is that it allows the frequency response to go between the frequency values we specify, we want these to correspond with
 AM radio station frequencies
+
+
+https://illumin.usc.edu/catch-a-wave-radio-waves-and-how-they-work/
+http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/amtran.html
+^^^ helpful information for radio wave stuff
+Hyperphysics website is VERY helpful, has examples and explanations for legit everything we need.

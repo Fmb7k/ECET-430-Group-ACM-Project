@@ -101,5 +101,6 @@ seems like if we want to have functionality at a reasonable quality, I'm gonna h
 Long term we can't use a bandpass filter for our usecase, we have to use heterodyning with a mixer to actually get to the frequencies that we need. 
 Superheterodyne Receiver:
 A superheterodyne receiver uses heterodyning to shift the frequency of a received signal to a fixed intermediate frequency (IF), where it's easier to amplify and filter. A bandpass filter is used in a superheterodyne receiver to select the desired signal and reject unwanted frequencies. 
-We need this^^^ which might be hard
+We need this^^^ which might be hard, basically an addition to the prototype that we had.
+I don't believe we can use the Arduino as the local oscillator needed for the superhet, we might need to switch to a different uC as well
 

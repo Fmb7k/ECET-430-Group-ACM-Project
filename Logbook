@@ -104,3 +104,8 @@ A superheterodyne receiver uses heterodyning to shift the frequency of a receive
 We need this^^^ which might be hard, basically an addition to the prototype that we had.
 I don't believe we can use the Arduino as the local oscillator needed for the superhet, we might need to switch to a different uC as well
 
+component selection shopping stuff can be done on digikey or mouser or octopart
+Our components need to have very good tolerance because the inaccuracy of our parts will lead to a buildup of noise or other flaws over the course of the reciever
+Our priority is having our sound be as high quality as possible, so having inaccuracy will lead to an unacceptable output.
+
+

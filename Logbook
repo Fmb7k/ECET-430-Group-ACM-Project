@@ -89,10 +89,17 @@ need to be very fine
 4.7nF capacitor is good for regulating voltage spikes, smoothes voltage out
 
 3/27/2025
-consider using an IF amplifier
+consider using an IF amplifier, IF amplifier is used after bandpass filter, but before rectifier
 https://en.wikipedia.org/wiki/Intermediate-frequency_amplifier 
 Trace width and spacing considerations in class
 too small traces will be hard to print, larger traces be easy to print and cost less
 spacing also needs to be considered between traces
 1 mil = 1/1000 inch
 *** need to convert from RF signal to AF signal
+Heterodyning is a big issue that we failed to consider, also I don't know if I can pay for all of the components we need.
+seems like if we want to have functionality at a reasonable quality, I'm gonna have to pay a lot for components which is a problem.
+Long term we can't use a bandpass filter for our usecase, we have to use heterodyning with a mixer to actually get to the frequencies that we need. 
+Superheterodyne Receiver:
+A superheterodyne receiver uses heterodyning to shift the frequency of a received signal to a fixed intermediate frequency (IF), where it's easier to amplify and filter. A bandpass filter is used in a superheterodyne receiver to select the desired signal and reject unwanted frequencies. 
+We need this^^^ which might be hard
+

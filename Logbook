@@ -87,3 +87,12 @@ dynamic range audio stuff discussed in class
 need to be very fine
 100nF capacitor is good for high frequency filtering
 4.7nF capacitor is good for regulating voltage spikes, smoothes voltage out
+
+3/27/2025
+consider using an IF amplifier
+https://en.wikipedia.org/wiki/Intermediate-frequency_amplifier 
+Trace width and spacing considerations in class
+too small traces will be hard to print, larger traces be easy to print and cost less
+spacing also needs to be considered between traces
+1 mil = 1/1000 inch
+*** need to convert from RF signal to AF signal

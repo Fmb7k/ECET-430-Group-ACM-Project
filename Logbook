@@ -108,4 +108,16 @@ component selection shopping stuff can be done on digikey or mouser or octopart
 Our components need to have very good tolerance because the inaccuracy of our parts will lead to a buildup of noise or other flaws over the course of the reciever
 Our priority is having our sound be as high quality as possible, so having inaccuracy will lead to an unacceptable output.
 
+4/1/2025
+PCB needs to have copper separated between analog and digital components, connected by one small crossover line on the top of the board to ground. 
+Connections should not be all over the place because signals will interfere with each other and create noise.
+CALLED A NET TIE IN KICAD. NEED SEPERATE GROUNDS. 
+
+Need to create a transistor circuit to power op amp rails
+OR use a biiiiig battery instead of creating more complicated transistor circuits.
+Battery limits us in power output, but is less complicated and cheaper to make. 
+DRC checker is op for pcb editing.
+Ground return paths are very important after everything else has been routed. Considering the return path while routing will make life easier
+Consider using a 4 layer PCB with a ground and power layer sandwiched between two signal layers.
+This method will allow us to have the top layer for Analog signal stuff, and the bottom layer for Digital signal stuff.
 

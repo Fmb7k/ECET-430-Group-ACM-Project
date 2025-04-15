@@ -121,3 +121,9 @@ Ground return paths are very important after everything else has been routed. Co
 Consider using a 4 layer PCB with a ground and power layer sandwiched between two signal layers.
 This method will allow us to have the top layer for Analog signal stuff, and the bottom layer for Digital signal stuff.
 
+4/15/2025
+Went over soldering in class
+Hopefully we will not be soldering anything to our board except for the antenna for the radio
+Everything else on the PCB should come from the manufacturer 
+However, having the parts assembled by the manufacturer will cost a lot more
+Turkey Assembly takes care of a lot of components for the PCB 

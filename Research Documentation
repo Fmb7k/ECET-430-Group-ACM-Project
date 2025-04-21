@@ -39,3 +39,15 @@ https://en.wikipedia.org/wiki/Superheterodyne_receiver#:~:text=The%20IF%20band%2
 Superheterodyne reciever is what we need to add to our reciever for it to be able to switch between stations. 
 
 https://www.nutsvolts.com/magazine/article/a_simple_superhet
+
+
+https://www.snapeda.com/parts/ST-1710007/Adlink/view-part/
+^^^ speaker we will use for final product
+reason for this is speaker and op amp need to match power outputs
+https://www.ti.com/lit/ds/symlink/lm386.pdf
+^^^ data sheet for our op amp
+we are using the lm386 because it has low distortion while also operating with low voltage.
+For our purposes we are using battery power for our radio, pulling high voltage from those batteries would cause us to have to account for it with other design considerations
+Using a lower voltage for this point allows us more breathing room
+https://www.quora.com/How-do-I-make-an-audio-amplifier-which-works-on-low-voltage-but-gives-the-maximum-amount-of-sound
+^^^ good general information

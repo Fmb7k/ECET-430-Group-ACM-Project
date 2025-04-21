@@ -51,3 +51,6 @@ For our purposes we are using battery power for our radio, pulling high voltage 
 Using a lower voltage for this point allows us more breathing room
 https://www.quora.com/How-do-I-make-an-audio-amplifier-which-works-on-low-voltage-but-gives-the-maximum-amount-of-sound
 ^^^ good general information
+
+https://forum.arduino.cc/t/using-operational-amplifiers-in-your-arduino-project/692648
+^^^ Arduino Op-amps

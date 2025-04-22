@@ -127,3 +127,9 @@ Hopefully we will not be soldering anything to our board except for the antenna 
 Everything else on the PCB should come from the manufacturer 
 However, having the parts assembled by the manufacturer will cost a lot more
 Turkey Assembly takes care of a lot of components for the PCB 
+
+4/22/2025
+Firmware stuff
+Create firmware for small bits of each component of the project
+For example for our project we make firmware for the frequency reader, then firmware for whatever else we are doing
+then we will combine both and test again

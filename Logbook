@@ -134,6 +134,16 @@ Create firmware for small bits of each component of the project
 For example for our project we make firmware for the frequency reader, then firmware for whatever else we are doing
 then we will combine both and test again
 
+4/24/2025
+Soldering Lab
+
+4/29/2025
+Presentations Pt. 1
+Probably should add ground plane between signal types with via fencing
+Also heat sinking vias under opamp
+
+5/1/2025
+Presentations Pt. 2
 
 5/6/2025
 Change Requests, Business/Product startup tips, future considerations
